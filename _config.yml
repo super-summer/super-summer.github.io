@@ -7,7 +7,7 @@ permalink: /:title
 encoding: UTF-8
 gems: [jekyll-paginate]
 
-title: 国宝爱你
+title: 我是国宝|
 url: http://super-summer.github.io
 feed: /atom.xml
 author_info: <a href="http://super-summer.github.io/">国宝</a>
